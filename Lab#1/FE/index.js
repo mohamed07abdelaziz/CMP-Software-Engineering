@@ -84,5 +84,7 @@ function deleteEmployee(employeeId) {
     .catch(error => console.error(error));
 }
 
+// ggg
+
 fetchEmployees(); 
 addDeleteEventListeners(); 
